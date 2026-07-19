@@ -91,6 +91,6 @@ npm run build
 
 ## 関連記事
 
-- ブログ記事: （準備中）
+- ブログ記事: [Reactで学ぶ 予定管理アプリ開発（第1回）～Vite環境構築とHello World～](https://pc-labo.online/2026/07/19/learning-schedule-management-app-development-with-react-part-1/)
 - 前の記事: なし（シリーズ第1回）
 - 次の記事: `02_components-and-props`（準備中）
