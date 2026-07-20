@@ -55,6 +55,6 @@ npm run build
 
 ## 関連記事
 
-- ブログ記事: （準備中）
-- 前の記事: [02_components-and-props](https://pc-labo.online/2026/07/20/learning-schedule-management-app-development-with-react-part-2/)
+- ブログ記事: [Reactで学ぶ 予定管理アプリ開発（第3回）～ useStateによる予定の追加・削除～](https://pc-labo.online/2026/07/21/learning-schedule-management-app-development-with-react-part-3/)
+- 前の記事: [Reactで学ぶ 予定管理アプリ開発（第2回）～ コンポーネント分割とprops～](https://pc-labo.online/2026/07/20/learning-schedule-management-app-development-with-react-part-2/)
 - 次の記事: `04_useeffect-localstorage`（準備中）
