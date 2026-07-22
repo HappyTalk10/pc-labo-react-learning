@@ -55,4 +55,4 @@ npm run build
 
 - ブログ記事: [Reactで学ぶ 予定管理アプリ開発（第2回）～ コンポーネント分割とprops～](https://pc-labo.online/2026/07/20/learning-schedule-management-app-development-with-react-part-2/)）
 - 前の記事: [Reactで学ぶ 予定管理アプリ開発（第1回）～Vite環境構築とHello World～](https://pc-labo.online/2026/07/19/learning-schedule-management-app-development-with-react-part-1/)
-- 次の記事: `03_usestate-todo`（準備中）
+- 次の記事: [Reactで学ぶ 予定管理アプリ開発（第3回）～ useStateによる予定の追加・削除～](https://pc-labo.online/2026/07/21/learning-schedule-management-app-development-with-react-part-3/)
