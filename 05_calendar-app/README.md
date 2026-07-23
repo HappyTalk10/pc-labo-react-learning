@@ -55,6 +55,6 @@ npm run build
 
 ## 関連記事
 
-- ブログ記事: （準備中）
+- ブログ記事: [05_calendar-app](https://pc-labo.online/2026/07/24/learning-schedule-management-app-development-with-react-part5/)
 - 前の記事: [04_useeffect-localstorage](https://pc-labo.online/2026/07/23/learning-schedule-management-app-development-with-react-part-4/)
 - 次の記事: `06_deploy-github-pages`（準備中）
