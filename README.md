@@ -18,7 +18,7 @@ Vite + Reactを使って、シンプルな環境構築から始め、コンポ�
 | Ver.3 | `03_usestate-todo` | useStateによる予定の追加・削除 | [公開済み](https://pc-labo.online/2026/07/21/learning-schedule-management-app-development-with-react-part-3/) |
 | Ver.4 | `04_useeffect-localstorage` | useEffect + localStorageによるデータ永続化 |  [公開済み](https://pc-labo.online/2026/07/23/learning-schedule-management-app-development-with-react-part-4/) |
 | Ver.5 | `05_calendar-app` | 月表示カレンダーの実装 |  [公開済み](https://pc-labo.online/2026/07/24/learning-schedule-management-app-development-with-react-part5/) |
-| Ver.6 | `06_deploy-github-pages` | GitHub Pagesへのデプロイ | （準備中） |
+| Ver.6 | `06_deploy-github-pages` | GitHub Pagesへのデプロイ | （https://pc-labo.online/2026/08/09/learning-schedule-management-app-development-with-react-part6/） |
 
 ## 関連記事（GitHubの基礎）
 

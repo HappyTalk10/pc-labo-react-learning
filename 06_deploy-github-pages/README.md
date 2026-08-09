@@ -75,6 +75,6 @@ export default defineConfig({
 
 ## 関連記事
 
-- ブログ記事: （準備中）
-- 前の記事: [05_calendar-app](../05_calendar-app/)
+- ブログ記事: （[第6回](https://pc-labo.online/2026/08/09/learning-schedule-management-app-development-with-react-part6/)）
+- 前の記事: [第5回](https://pc-labo.online/2026/07/24/learning-schedule-management-app-development-with-react-part5/)
 - 次の記事: なし（シリーズ最終回）
