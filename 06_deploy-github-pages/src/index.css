@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  color: #1a1a1a;
+  background: #ffffff;
+}
+
+code {
+  font-family: ui-monospace, Consolas, monospace;
+  background: #f4f3ec;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
